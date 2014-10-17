@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ste:home|Door43 (ste)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ste|d43-ste repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ste/archive/master.zip|d43-ste.zip]]
+
+**Recent Changes**
+{{changes>ns = ste}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ste|Ethnologue data]]
+
